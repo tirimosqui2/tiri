@@ -23,8 +23,12 @@
     },	
 {"name": "INSTAGRAM CHUKYHOOD",
 "image": "https://github.com/tirimosqui2/mlpla/blob/main/photo_2024-06-18_01-07-32.jpg?raw=true",
+"stations": [
+{"name": "CHUKYHOOD",
+"image": "https://github.com/tirimosqui2/mlpla/blob/main/photo_2024-06-18_01-07-32.jpg?raw=true",
 "url": "https://www.instagram.com/p/C8UVobatfov/?utm_source=ig_web_button_share_sheet",
 "embed": "true" },
+]},
 {"name": "FORO CHUKYHOOD",
 "image": "https://i.ibb.co/NjqvNHv/chuky-Hood-apk.jpg",
 "stations": [
