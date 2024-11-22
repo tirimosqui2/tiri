@@ -6,22 +6,33 @@
 "info": "MLPLA",  
 "groups": [
 {"name": "⚽𝐂𝐇𝐔𝐊𝐘𝐇𝐎𝐃 𝐃𝐄𝐏𝐎𝐑𝙏",
+"author": "ʙʏ 𝐂𝐇𝐔𝐊𝐘 ™",
 "image": "https://github.com/tiriti1/tiri/blob/main/chukyhood.jpg?raw=true",
 "url": "https://raw.githubusercontent.com/chukyvaliente/ChukyDeport/refs/heads/main/ChukyDeport"
     },
 {"name": "🎥𝐂𝐇𝐔𝐊𝐘 𝐂𝐈𝐍𝐄",
+"author": "ʙʏ 𝐂𝐇𝐔𝐊𝐘 ™",
 "image": "https://github.com/tiriti1/tiri/blob/main/ck%20cine.jpg?raw=true",
 "url": "https://raw.githubusercontent.com/chukyvaliente/ChukHoodCine/refs/heads/main/ChukyHoodCines"
     },	
 {"name": "💢 𝐓𝐈𝐑𝐈𝐒𝐓𝐀𝐑 𝐓𝐕",
+"author": "ʙʏ Tiri ™",
 "image": "https://github.com/tiriti1/tiri/blob/main/tiri.jpg?raw=true",
 "url": "https://raw.githubusercontent.com/tirimosqui2/mlpla/main/LATIRI_STAR.w3u"
     },
 {"name": "👫 𝐂𝐎𝐍 𝐕𝐀𝐋𝐎𝐑𝐄𝐒",
+"author": "ʙʏ Tiri ™",
 "image": "https://github.com/tiriti1/tiri/blob/main/IMG_20240624_200542.jpg?raw=true",
 "url": "https://raw.githubusercontent.com/tirimosqui2/cinetiriList/main/cinevalores.w3u#.m3u"
     },	
+{
+"name": "🕹️ Juegos Online 🕹️",
+"author": "Tiri ™  Jugar Online gratis sin descarga",
+"image": "https://www.nintenderos.com/wp-content/uploads/2023/03/Juegos-online-gratis0000.jpg",
+"url": "https://raw.githubusercontent.com/tirimosqui2/mlpla/refs/heads/main/Juegos%20onlineByTiri.w3u"
+    },
 {"name": "💬𝐈𝐍𝐒𝐓𝐀𝐆 𝐂𝐇𝐔𝐊𝐘𝐇𝐎𝐎𝐃",
+"author": "ʙʏ 𝕄𝕃ℙ𝕃𝔸©",
 "image": "https://github.com/tiriti1/tiri/blob/main/insta.jpg?raw=true",
 "stations": [
 {"name": "𝕀𝕟𝕤𝕥𝕒𝕘𝕣𝕒𝕞",
@@ -30,6 +41,7 @@
 "embed": "true" },
 ]},
 {"name": "🌍​𝐅𝐎𝐑𝐎 𝐂𝐇𝐔𝐊𝐘𝐇𝐎𝐎𝐃​",
+"author": "ʙʏ 𝕄𝕃ℙ𝕃𝔸©",
 "image": "https://github.com/tiriti1/tiri/blob/main/foro.jpg?raw=true",
 "stations": [
 {"name": "𝕝𝕚𝕤𝕥𝕒𝕤",
@@ -50,6 +62,7 @@
 "embed": "true" },
 ]},
 {"name": "☎𝐓𝐋𝐅 𝐈𝐍𝐅𝐎𝐑𝐌𝐀𝐂𝐈Ó𝐍☎",
+"author": "ʙʏ Tiri ™",
 "image": "https://github.com/tiriti1/tiri/blob/main/tlf.jpg?raw=true",
 "stations": [
 {"name": "𝕀ℕ𝔽𝕆ℝ𝕄𝔸ℂ𝕀Óℕ",
