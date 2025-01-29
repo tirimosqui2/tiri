@@ -46,7 +46,7 @@
 "url": "https://raw.githubusercontent.com/tirimosqui2/mlpla/main/EMERGENCIAS.txt",
 "embed": "true" },
 ]},
-{"name": "⚡𝐀𝐥𝐞𝐫𝐭𝐚𝐬 𝐓𝐈𝐄𝐌𝐏𝐎",
+{"name": "⚡ 𝐀𝐥𝐞𝐫𝐭𝐚𝐬 𝐓𝐈𝐄𝐌𝐏𝐎",
 "author": "ʙʏ 𝐓𝐈𝐑𝐈™",
 "image": "https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2016/05/El-Tiempo-TV-en-vivo-Online.png",
 "stations":[
@@ -83,7 +83,7 @@
 "url": "https://www.accuweather.com/es/es/national/weather-radar",
 "embed": true },
 ]},
-{"name": "🚓𝐌𝐀𝐏𝐀𝐒 𝐂𝐀𝐑𝐑𝐄𝐓𝐄𝐑𝐀𝐒",
+{"name": "🚓 𝐌𝐀𝐏𝐀𝐒 𝐂𝐀𝐑𝐑𝐄𝐓𝐄𝐑𝐀𝐒",
 "author": "ʙʏ 𝐓𝐈𝐑𝐈™",
  "image": "https://imagenes.20minutos.es/files/image_640_360/uploads/imagenes/2019/06/30/993250.jpg",
 "stations":[
@@ -112,7 +112,7 @@
  "url": "https://mapas.race.es/index.html",
  "embed": "true" }, 
 ]},
-{"name": "☣️𝐑𝐞𝐬𝐩𝐢𝐫𝐚𝐭𝐨𝐫𝐲 𝐈𝐧𝐟𝐨",
+{"name": "☣️ 𝐑𝐞𝐬𝐩𝐢𝐫𝐚𝐭𝐨𝐫𝐲 𝐈𝐧𝐟𝐨",
 "author": "ʙʏ 𝐓𝐈𝐑𝐈™",
 "image": "https://d2jx2rerrg6sh3.cloudfront.net/image-handler/ts/20221229082527/ri/950/src/images/news/ImageForNews_734648_16723203205328165.jpg",
 "stations": [
@@ -134,7 +134,8 @@
 {"name": "24/7 Programa mundial contra la gripe datos",
 "image": "https://www.adfisioterapiavalencia.com/wp-content/uploads/2024/06/%C2%BFQue-es-la-gripe%C2%BF.jpg",
 "url": "https://epicovcharts.bii.a-star.edu.sg/flu-freq-dashboard/",
-"embed": "true"},
+"embed": "true"
+},
 {"name": "24/7 European Respiratory Virus datos",
 "image": "https://www.adfisioterapiavalencia.com/wp-content/uploads/2024/06/%C2%BFQue-es-la-gripe%C2%BF.jpg",
 "url": "https://erviss.org/",
