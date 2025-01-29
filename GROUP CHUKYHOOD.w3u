@@ -1,6 +1,6 @@
 {
 "name": "👨‍👩‍👧𝘎𝘙𝘖𝘜𝘗 𝘊𝘏𝘜𝘒𝘠𝘏𝘖𝘖𝘋",
-"author": "ʙʏ 𝕄𝕃ℙ𝕃𝔸™"
+"author": "ʙʏ 𝕄𝕃ℙ𝕃𝔸™",
 "image": "https://github.com/tirimosqui2/mlpla/blob/main/MLPLA%20CALVO.jpg?raw=true",
 "url": "https://raw.githubusercontent.com/tiriti1/tiri/main/GROUP%20CHUKYHOOD.w3u",
 "info": "MLPLA",  
@@ -25,19 +25,17 @@
 "image": "https://github.com/tiriti1/tiri/blob/main/IMG_20240624_200542.jpg?raw=true",
 "url": "https://raw.githubusercontent.com/tirimosqui2/cinetiriList/main/cinevalores.w3u#.m3u"
     },
-{
-"name": "📺 𝑻𝑫𝑻 𝑪𝒉𝒂𝒏𝒏𝒆𝒍𝒔",
+{"name": "📺 𝑻𝑫𝑻 𝑪𝒉𝒂𝒏𝒏𝒆𝒍𝒔",
 "author": "TDThannels™",
 "image": "https://www.techwikies.com/wp-content/uploads/2019/07/TDTChannels.png",
-"url": "https://www.tdtchannels.com/lists/tvradio.w3u"
+"url": "https://www.tdtchannels.com/lists/tvradio.w3u#.m3u"
    },	
-{
-"name": "🕹️ 𝗝𝗨𝗘𝗚𝗢𝗦 𝗢𝗡𝗟𝗜𝗡𝗘 🕹️",
+{"name": "🕹️ 𝗝𝗨𝗘𝗚𝗢𝗦 𝗢𝗡𝗟𝗜𝗡𝗘",
 "author": "ʙʏ 𝐓𝐈𝐑𝐈™",
 "image": "https://github.com/tirimosqui2/mlpla/blob/main/IMG_20241122_200029.jpg?raw=true",
 "url": "https://raw.githubusercontent.com/tirimosqui2/mlpla/refs/heads/main/Juegos%20onlineByTiri.w3u"
     },	
-{"name": "☎𝐓𝐋𝐅 𝐄𝐌𝐄𝐑𝐆𝐄𝐍𝐂𝐈𝐀𝐒",
+{"name": "☎ 𝐓𝐋𝐅 𝐄𝐌𝐄𝐑𝐆𝐄𝐍𝐂𝐈𝐀𝐒",
 "author": "ʙʏ 𝐓𝐈𝐑𝐈™",
 "image": "https://github.com/tiriti1/tiri/blob/main/tlf.jpg?raw=true",
 "stations": [
@@ -116,7 +114,7 @@
 "author": "ʙʏ 𝐓𝐈𝐑𝐈™",
 "image": "https://d2jx2rerrg6sh3.cloudfront.net/image-handler/ts/20221229082527/ri/950/src/images/news/ImageForNews_734648_16723203205328165.jpg",
 "stations": [
-{"name": "24/7 covid-19 datos ",
+{"name": "24/7 covid-19 datos",
 "image": "https://www.mayoclinic.org/-/media/kcms/gbs/patient-consumer/images/2020/02/12/16/17/coronovirus-8col.jpg",
 "url": "https://ncov2019.live/data/europe",
 "embed": "true" 
@@ -134,14 +132,13 @@
 {"name": "24/7 Programa mundial contra la gripe datos",
 "image": "https://www.adfisioterapiavalencia.com/wp-content/uploads/2024/06/%C2%BFQue-es-la-gripe%C2%BF.jpg",
 "url": "https://epicovcharts.bii.a-star.edu.sg/flu-freq-dashboard/",
-"embed": "true"
-},
+"embed": "true"},
 {"name": "24/7 European Respiratory Virus datos",
 "image": "https://www.adfisioterapiavalencia.com/wp-content/uploads/2024/06/%C2%BFQue-es-la-gripe%C2%BF.jpg",
 "url": "https://erviss.org/",
 "embed": "true"},
 ]},
-{"name": "💬𝐈𝐍𝐒𝐓𝐀𝐆 𝐂𝐇𝐔𝐊𝐘𝐇𝐎𝐎𝐃",
+{"name": "💬 𝐈𝐍𝐒𝐓𝐀𝐆 𝐂𝐇𝐔𝐊𝐘𝐇𝐎𝐎𝐃",
 "author": "ʙʏ 𝕄𝕃ℙ𝕃𝔸©",
 "image": "https://github.com/tiriti1/tiri/blob/main/insta.jpg?raw=true",
 "stations": [
