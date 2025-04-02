@@ -36,11 +36,18 @@
 "url": "https://raw.githubusercontent.com/tirimosqui2/mlpla/refs/heads/main/Juegos%20onlineByTiri.w3u"
     },	
 {"name": "☎ 𝐓𝐋𝐅 𝐄𝐌𝐄𝐑𝐆𝐄𝐍𝐂𝐈𝐀𝐒",
-"author": "ʙʏ 𝐓𝐈𝐑𝐈™",
-"image": "https://github.com/tiriti1/tiri/blob/main/tlf.jpg?raw=true",
+"image" : "https://www.autolesion.com/wp-content/uploads/2011/07/Telefono-300x300.gif",
+"author": "ᵇʸ 𝐓𝐈𝐑𝐈🅃🅅™", 
 "stations": [
-{"name": "𝐓𝐋𝐅",
-"image": "https://img.freepik.com/vector-premium/ilustracion-mano-que-sostiene-telefono-movil-inteligente-moderno-vector-dibujos-animados-fondo-blanco_734841-268.jpg",
+{
+"name": "Teléfonos",
+"image": "https://www.autolesion.com/wp-content/uploads/2011/07/Telefono-300x300.gif",
+"info" : " 📚 Ayuda/info
+
+
+
+💬 𝓢𝓲𝓷𝓸𝓹𝓼𝓲𝓼:
+   telefonos para una emergencia e info Manten pulsado el numero y te dara la opcion de llamar",  
 "url": "https://raw.githubusercontent.com/tirimosqui2/mlpla/main/EMERGENCIAS.txt",
 "embed": "true" },
 ]},
